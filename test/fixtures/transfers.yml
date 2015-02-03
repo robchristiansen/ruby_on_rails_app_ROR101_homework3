@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Sender: 1
+  Recipient: MyString
+  Filename: MyString
+  Link: MyString
+  Expiration_Date: 2015-02-02 00:15:56
+
+two:
+  Sender: 1
+  Recipient: MyString
+  Filename: MyString
+  Link: MyString
+  Expiration_Date: 2015-02-02 00:15:56
